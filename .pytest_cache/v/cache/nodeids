@@ -1,0 +1,4 @@
+[
+  "test.py::test_passedbuckets",
+  "test.py::test_failedbuckets"
+]
